@@ -7,7 +7,7 @@
 - [Background Information](#background-information)
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
-    - [VPN Subscription Services](#vpn-subscription-services)
+    - [VPN Subscription Services](#vpn-su#vpn-sutio-services)
     - [Self-hosted VPNs](#self-hosted-vpns)
 - [Browser Extensions](#browser-extensions)
 - [Userscripts](#userscripts)
